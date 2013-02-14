@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <permission name="com.lge.permission.WV_PROVISION" >
+        <group gid="system" />
+    </permission>
+
+    <library name="com.lge.wv"
+            file="/system/framework/com.lge.wv.jar" />
+</permissions>

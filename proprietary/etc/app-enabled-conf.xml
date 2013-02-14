@@ -1,0 +1,67 @@
+{"ApplicationEnabledSetting":[
+           {
+                     "target_country":"------ default ------",
+                     "sim.mcc":"",
+                     "pkglist":[          
+                                {"path":"/system/vendor/carrier/system/lgercui.apk", "type":"system_app"},
+                                {"path":"/system/vendor/carrier/system/rspermlge.apk", "type":"system_app"}
+                                ]
+           },
+           {
+                     "target_country":"------ UK ------",
+                     "sim.mcc":"234",
+                     "pkglist":[          
+                                {"path":"/system/vendor/carrier/system/BooksTablet.apk", "type":"system_app"},
+                                {"path":"/system/vendor/carrier/system/Videos.apk", "type":"system_app"}
+                     ]
+           },
+           {
+                     "target_country":"------ FR ------",
+                     "sim.mcc":"208",
+                     "pkglist":[
+                                {"path":"/system/vendor/carrier/system/lgercui.apk", "type":"system_app"},
+                                {"path":"/system/vendor/carrier/system/rspermlge.apk", "type":"system_app"},
+                                {"path":"/system/vendor/carrier/system/BooksTablet.apk", "type":"system_app"},
+                                {"path":"/system/vendor/carrier/system/Videos.apk", "type":"system_app"}
+                     ]
+           },
+           {
+                     "target_country":"------ IT ------",
+                     "sim.mcc":"222",
+                     "pkglist":[
+                                {"path":"/system/vendor/carrier/system/lgercui.apk", "type":"system_app"},
+                                {"path":"/system/vendor/carrier/system/rspermlge.apk", "type":"system_app"},
+                                {"path":"/system/vendor/carrier/system/BooksTablet.apk", "type":"system_app"}
+                     ]
+           },
+           {
+                     "target_country":"------ ES ------",
+                     "sim.mcc":"214",
+                     "pkglist":[
+                                {"path":"/system/vendor/carrier/system/lgercui.apk", "type":"system_app"},
+                                {"path":"/system/vendor/carrier/system/rspermlge.apk", "type":"system_app"},
+                                {"path":"/system/vendor/carrier/system/BooksTablet.apk", "type":"system_app"},
+                                {"path":"/system/vendor/carrier/system/Videos.apk", "type":"system_app"}
+                     ]
+           },
+           {
+                     "target_country":"------ DE ------",
+                     "sim.mcc":"262",
+                     "pkglist":[
+                                {"path":"/system/vendor/carrier/system/lgercui.apk", "type":"system_app"},
+                                {"path":"/system/vendor/carrier/system/rspermlge.apk", "type":"system_app"},
+                                {"path":"/system/vendor/carrier/system/BooksTablet.apk", "type":"system_app"}
+                     ]
+           },
+           {
+                     "target_country":"------ ORG RO ------",
+                     "sim.mcc":"226",
+                     "sim.mnc":["10"],
+                     "pkglist":[
+                                {"path":"/system/vendor/carrier/system/tvlive.apk", "type":"system_app"},
+                                {"path":"/system/vendor/carrier/system/orangefilm.apk", "type":"system_app"},
+                                {"path":"/system/vendor/carrier/system/contultauorange.apk", "type":"system_app"}
+                     ]
+           }
+]
+}

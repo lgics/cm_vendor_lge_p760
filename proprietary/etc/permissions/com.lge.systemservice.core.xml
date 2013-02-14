@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+	<library name="com.lge.systemservice.core"
+		file="/system/framework/com.lge.systemservice.core.jar"/>
+	<!-- LGE_ADD_START, moon-wifi@lge.com by 2lee@lge.com, 20120301  -->
+	<permission name="android.permission.LGE_ACCESS_WIFI">
+		<group gid="wifi"/>
+	</permission>
+	<!-- LGE_ADD_END, moon-wifi@lge.com by 2lee@lge.com, 20120301  -->
+</permissions>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Profiles>
+
+	<FeatureSet>
+        <item name="KREncodingScheme">true</item>
+		<item name="handle8bit">false</item>
+		<item name="copy_submit_to_uicc">true</item>
+		<item name="seperate_processing_sms_uicc">true</item>
+		<item name="parse_email_on_uicc">true</item>
+		<item name="set_sms_character_encoding">true</item>
+		<item name="use_update_for_copy2sim">true</item>
+		<item name="turkishEncoding">true</item>
+		<item name="change_limit_number_unauthorized_SMS_usage">true</item>
+		<item name="limit_number_unauthorized_SMS_usage">1000</item>
+	</FeatureSet>
+
+</Profiles>	
